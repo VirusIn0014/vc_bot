@@ -1,6 +1,6 @@
 {
   "name": "MusicBot",
-  "description": "Open-Source bot to play songs in your Telegram's Group Voice Chat. Powered by PyTgCalls.",
+  "description": " Music Bot Created to play Music in Group VC.",
   "keywords": ["music", "voicechat", "telegram"],
   "repository": "https://github.com/TheVaders/MusicBot",
   "stack": "container",
@@ -15,8 +15,8 @@
     },
     "BOT_NAME": {
       "description": "Your MusicPlayer Bot Name.",
-      "required": false,
-      "value": "Hêllẞø†"
+      "required": true,
+      "value": "Engineer's Corner Music"
     },
     "API_ID": {
       "description": "App ID from my.telegram.org/apps",
